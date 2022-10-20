@@ -6,7 +6,8 @@ export const config = {
   COLLECTION_TITLE: "Cronos Shaggy Galaxy",
   COLLECTION_DESCRIPTION:
     "10.000 unique, cute and shaggy creatures lost in the Shaggy Galaxy! Utility: 🦄 DAO 🪂 Rewards 🕹 GameFi..",
-  COLLECTION_IMG_LINK: "https://punkscape.xyz/og.png",
+  COLLECTION_IMG_LINK:
+    "https://pbs.twimg.com/profile_banners/1487903161046212614/1659612102/1500x500",
   CONTRACT: {},
   // CONTRACT: {
   //   // if you're not sure, set CONTRACT: {}, will remove opensea link
