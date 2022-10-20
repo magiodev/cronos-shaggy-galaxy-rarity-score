@@ -1,7 +1,7 @@
 export const config = {
   env: "prod",
   LOCAL_API_URL: "localhost:3000",
-  API_URL: "odp-rarity.vercel.app",
+  API_URL: "cronos-shaggy-galaxy-rarity-score.vercel.app",
   COLLECTION_NAME: "Cronos Shaggy Galaxy",
   COLLECTION_TITLE: "Cronos Shaggy Galaxy",
   COLLECTION_DESCRIPTION:
